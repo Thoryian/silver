@@ -4,7 +4,7 @@ document.addEventListener('click', function () {
   });
   
   document.getElementById('name').textContent = 'Silver';
-  document.getElementById('about').textContent = 'Hallo Im a silly wittle furry called Silver, I love music and I love cats, I have three cats Loki, Lucy, and Cleo I love them very much. ❤️taken by Silicon❤️ 2006 Dodge Grand Caravan my beloved ♥️';
+  document.getElementById('about').textContent = 'Hallo Im a silly wittle furry called Silver, I love music and I love cats, I have three cats Loki, Lucy, and Cleo I love them very much. 2006 Dodge Grand Caravan my beloved ♥️';
   document.getElementById('stuff').textContent = 'He/Him, 18-, Pansexual, Furry'
 
   const socialLinks = [
